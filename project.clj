@@ -1,8 +1,8 @@
 (defproject cljs-rl "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :description "A simple roguelike written in Clojurescript"
+  :url "http://localhost:10555"
+  :license {:name "The MIT License"
+            :url "https://opensource.org/licenses/MIT"}
 
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.9.671" :scope "provided"]
